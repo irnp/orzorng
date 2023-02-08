@@ -8,12 +8,12 @@ setup(
     description='learn to use',  # Give a short description about your library
     author='hugo',  # Type in your name
     author_email='orzorng@gmail.com',  # Type in your E-Mail
-    url='https://github.com/user/reponame',  # Provide either the link to your github or to your website
-    download_url='https://github.com/user/reponame/archive/v_01.tar.gz',  # I explain this later on
-    keywords=['SOME', 'MEANINGFULL', 'KEYWORDS'],  # Keywords that define your package best
+    url='https://github.com/irnp/orzorng',  # Provide either the link to your github or to your website
+    download_url='',  # I explain this later on
+    keywords=['orzorng', 'hugo'],  # Keywords that define your package best
     install_requires=[  # I get to this in a second
-        'validators',  # 可以加上版本号，如validators=1.5.1
-        'beautifulsoup4',
+        # 'validators',  # 可以加上版本号，如validators=1.5.1
+        # 'beautifulsoup4',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
